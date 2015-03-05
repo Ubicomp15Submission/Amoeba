@@ -1,4 +1,3 @@
-Ada-Android
+Amoeba - Context-Sensititve Context Sensing Service for Mobile Devices
 ===========
 
-Ada Android implementation
